@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsCatalogCS", "MethodsCatalogCS\MethodsCatalogCS.csproj", "{938791AD-0F9A-477E-91CD-6D04395DB18B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingSystem", "MethodsCatalogCS\LoggingSystem\LoggingSystem\LoggingSystem.csproj", "{81C1F29B-D20E-4678-B603-38DC15DCC1C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMarker", "CodeMarker\CodeMarker.csproj", "{2408B7A4-8E00-4417-803A-FE2EAC5FD058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMarkerExplorer", "CodeMarkerExplorer\CodeMarkerExplorer.csproj", "{3055CFB0-D2FD-4496-98BC-0A46D87CEE9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{938791AD-0F9A-477E-91CD-6D04395DB18B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938791AD-0F9A-477E-91CD-6D04395DB18B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938791AD-0F9A-477E-91CD-6D04395DB18B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938791AD-0F9A-477E-91CD-6D04395DB18B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C1F29B-D20E-4678-B603-38DC15DCC1C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C1F29B-D20E-4678-B603-38DC15DCC1C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C1F29B-D20E-4678-B603-38DC15DCC1C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C1F29B-D20E-4678-B603-38DC15DCC1C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2408B7A4-8E00-4417-803A-FE2EAC5FD058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2408B7A4-8E00-4417-803A-FE2EAC5FD058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2408B7A4-8E00-4417-803A-FE2EAC5FD058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2408B7A4-8E00-4417-803A-FE2EAC5FD058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3055CFB0-D2FD-4496-98BC-0A46D87CEE9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3055CFB0-D2FD-4496-98BC-0A46D87CEE9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3055CFB0-D2FD-4496-98BC-0A46D87CEE9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3055CFB0-D2FD-4496-98BC-0A46D87CEE9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://profimedica.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = MethodsCatalogCS\\MethodsCatalogCS.csproj
+		SccProjectName0 = MethodsCatalogCS
+		SccLocalPath0 = MethodsCatalogCS
+		SccProjectUniqueName1 = MethodsCatalogCS\\LoggingSystem\\LoggingSystem\\LoggingSystem.csproj
+		SccProjectName1 = MethodsCatalogCS/LoggingSystem/LoggingSystem
+		SccLocalPath1 = MethodsCatalogCS\\LoggingSystem\\LoggingSystem
+		SccProjectUniqueName2 = CodeMarker\\CodeMarker.csproj
+		SccProjectName2 = CodeMarker
+		SccLocalPath2 = CodeMarker
+		SccProjectUniqueName3 = CodeMarkerExplorer\\CodeMarkerExplorer.csproj
+		SccProjectName3 = CodeMarkerExplorer
+		SccLocalPath3 = CodeMarkerExplorer
+		SccLocalPath4 = .
+	EndGlobalSection
+EndGlobal
